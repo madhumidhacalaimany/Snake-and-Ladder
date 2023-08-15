@@ -1,6 +1,6 @@
 # Snake-and-Ladder
 
-VIDEO-DESCRIPTION: https://www.youtube.com/watch?v=4TXWpP4Lu9E
+VIDEO-DESCRIPTION: https://youtu.be/NlUM7QdQa3I
 To Do's:
         # Snake and Ladder Game 
 A simple command-line Snake and Ladder game implemented in C. 
